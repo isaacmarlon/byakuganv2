@@ -3,6 +3,7 @@
 ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![License](https://img.shields.io/github/license/isaacmsl/byakuganv2)
 
+- [Como contribuir](#como-contribuir)
 - [Resumo](#resumo)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Resultados](#resultados)
@@ -10,6 +11,40 @@
     - [Premiação MNR 2019](#premiação-mnr-2019)
 - [Mais Detalhes](#mais-detalhes)
 - [Autores](#autores)
+
+## Como contribuir
+
+Tendo em vista a limitação do uso de hardware do robô, você ainda pode contribuir por meio de refatorações e aprimoramento. Contribua como puder :)
+
+### Pré-requisitos
+
+Conhecimento básico de:
+
+- [Python versão >=2.7](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0&ab_channel=CursoemV%C3%ADdeo)
+- [C++](https://www.w3schools.com/cpp/)
+- [Robot Operating System (ROS)](http://wiki.ros.org/) Distribuição [Melodic](http://wiki.ros.org/melodic)
+- [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+- [Arduino](https://www.arduino.cc/en/Tutorial/HomePage)
+- [Raspberry Pi](https://www.raspberrypi.org) (Opcional)
+
+Hardware:
+
+- [Componentes eletrônicos utilizados](https://github.com/IFRN-SC/Wall-E-2018-#componentes-eletr%C3%B4nicos) (Opcional. [Veja como contribuir sem possuir o hardware](https://github.com/isaacmsl/byakuganv2/wiki/Como-contribuir-sem-possuir-o-hardware))
+- Sistema Operacional (SO) preferencialmente Ubuntu (linux) [(SOs para ROS)](http://wiki.ros.org/melodic#Platforms)
+- Câmera (caso seu computador não possua, [veja como utilizar a câmera do celular](https://github.com/isaacmsl/byakuganv2/wiki/Como-utilizar-a-c%C3%A2mera-do-celular))
+
+### Instalações
+
+- [Python 2.7](https://www.python.org/dev/peps/pep-0373/)
+- [ROS](http://wiki.ros.org/melodic/Installation)
+- [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+- [C++](https://support.microsoft.com/pt-br/help/2977003/the-latest-supported-visual-c-downloads) (Obs.: nativo para Ubuntu)
+
+### Execução
+
+- [Preparar repositório local](https://github.com/isaacmsl/byakuganv2/wiki/Como-preparar-o-reposit%C3%B3rio-local)
+- [Criar workspace ROS](http://wiki.ros.org/pt_BR/ROS/Tutorials/InstallingandConfiguringROSEnvironment)
+- [Configurar pacote ROS byakuganv2](https://github.com/isaacmsl/byakuganv2/wiki/Como-configurar-o-pacote-ROS-byakuganv2)
 
 ## Resumo
 
